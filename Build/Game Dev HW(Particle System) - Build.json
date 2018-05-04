@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Game Dev HW(Particle System)",
+"dataUrl": "Game Dev HW(Particle System) - Build.data.unityweb",
+"asmCodeUrl": "Game Dev HW(Particle System) - Build.asm.code.unityweb",
+"asmMemoryUrl": "Game Dev HW(Particle System) - Build.asm.memory.unityweb",
+"asmFrameworkUrl": "Game Dev HW(Particle System) - Build.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
